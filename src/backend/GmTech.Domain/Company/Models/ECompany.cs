@@ -1,6 +1,6 @@
 namespace GmTech.Domain.Company.Models;
 
-public class ECompany : AddressBase {
+public class ECompany {
     
     public Guid Id { get; private set; }
     public string? CompanayName { get; private set; }
@@ -10,24 +10,14 @@ public class ECompany : AddressBase {
 
     public ECompany() { }
 
-    public ECompany(Guid id, string companyname, string document, DateTime fundation,
-        string businessarea, string zipcode, string address,
-        string number, string district, string city,
-        string state, string country, List<string> fones, List<string> emails) {
+    public ECompany(Guid id, string companyname, 
+        string document, DateTime fundation,
+        string businessarea) {
             Id = id;
             CompanayName = companyname;
             Document = document;
             BusinessArea = businessarea;
             FundationDate = fundation;
-            Zipcode = zipcode;
-            Address = address;
-            Number = number;
-            District = district;
-            City = city;
-            State = state;
-            Country = country;
-            Fone = fones;
-            Email = emails;
-    }
+        }
 
 }

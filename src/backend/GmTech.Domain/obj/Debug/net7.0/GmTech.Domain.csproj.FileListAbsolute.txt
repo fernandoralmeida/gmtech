@@ -1,11 +1,11 @@
+/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.deps.json
+/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.dll
+/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.pdb
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.csproj.AssemblyReference.cache
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.AssemblyInfoInputs.cache
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.AssemblyInfo.cs
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.csproj.CoreCompileInputs.cache
-/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.deps.json
-/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.dll
-/home/dbn/reps/gmtech/src/backend/GmTech.Domain/bin/Debug/net7.0/GmTech.Domain.pdb
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.dll
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/refint/GmTech.Domain.dll
 /home/dbn/reps/gmtech/src/backend/GmTech.Domain/obj/Debug/net7.0/GmTech.Domain.pdb

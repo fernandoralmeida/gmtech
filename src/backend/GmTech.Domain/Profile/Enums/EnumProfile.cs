@@ -1,3 +1,3 @@
 namespace GmTech.Domain.Profile.Enums;
 
-public enum EnumProfile { Consumer = 0, ServiceProvider = 1 };
+public enum EnumProfiles { Default = 0, Business = 1, Person = 2, Company = 3 };
